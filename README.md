@@ -1,2 +1,13 @@
-# Comparison-Conditional-2-
-Comparison/Conditional (2)
+#include<iostream>
+using namespace std;
+int main(){
+    int lovelife=2;
+    if(lovelife==0){
+        cout<<"Aah kawawa"<<endl;
+    }
+    else{
+        cout<<"Nice"<<endl;
+    }
+    
+    return 0;
+}
